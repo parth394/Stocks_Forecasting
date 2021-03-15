@@ -1,1 +1,1 @@
-# This is stocks TimeSeries Forecasting Repositry
+# This is stocks TimeSeries Forecasting Repository
